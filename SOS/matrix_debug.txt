@@ -1,0 +1,1625 @@
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  2
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  3
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  5
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  6
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (8,9) o valor de:  49
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  8
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (8,9) o valor de:  64
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  9
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (8,9) o valor de:  81
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  10
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (8,9) o valor de:  100
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  11
+
+Estou colocando no ponto: (8,8) o valor de:  11
+
+Estou colocando no ponto: (8,9) o valor de:  121
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  12
+
+Estou colocando no ponto: (8,8) o valor de:  12
+
+Estou colocando no ponto: (8,9) o valor de:  144
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  13
+
+Estou colocando no ponto: (8,8) o valor de:  13
+
+Estou colocando no ponto: (8,9) o valor de:  169
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  14
+
+Estou colocando no ponto: (8,8) o valor de:  14
+
+Estou colocando no ponto: (8,9) o valor de:  196
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  15
+
+Estou colocando no ponto: (8,8) o valor de:  15
+
+Estou colocando no ponto: (8,9) o valor de:  225
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  16
+
+Estou colocando no ponto: (8,8) o valor de:  16
+
+Estou colocando no ponto: (8,9) o valor de:  256
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  17
+
+Estou colocando no ponto: (8,8) o valor de:  17
+
+Estou colocando no ponto: (8,9) o valor de:  289
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  18
+
+Estou colocando no ponto: (8,8) o valor de:  18
+
+Estou colocando no ponto: (8,9) o valor de:  324
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  19
+
+Estou colocando no ponto: (8,8) o valor de:  19
+
+Estou colocando no ponto: (8,9) o valor de:  361
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  20
+
+Estou colocando no ponto: (8,8) o valor de:  20
+
+Estou colocando no ponto: (8,9) o valor de:  400
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  21
+
+Estou colocando no ponto: (8,8) o valor de:  21
+
+Estou colocando no ponto: (8,9) o valor de:  441
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  22
+
+Estou colocando no ponto: (8,8) o valor de:  22
+
+Estou colocando no ponto: (8,9) o valor de:  484
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  23
+
+Estou colocando no ponto: (8,8) o valor de:  23
+
+Estou colocando no ponto: (8,9) o valor de:  529
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  24
+
+Estou colocando no ponto: (8,8) o valor de:  24
+
+Estou colocando no ponto: (8,9) o valor de:  576
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  25
+
+Estou colocando no ponto: (8,8) o valor de:  25
+
+Estou colocando no ponto: (8,9) o valor de:  625
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  26
+
+Estou colocando no ponto: (8,8) o valor de:  26
+
+Estou colocando no ponto: (8,9) o valor de:  676
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  27
+
+Estou colocando no ponto: (8,8) o valor de:  27
+
+Estou colocando no ponto: (8,9) o valor de:  729
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  28
+
+Estou colocando no ponto: (8,8) o valor de:  28
+
+Estou colocando no ponto: (8,9) o valor de:  784
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  29
+
+Estou colocando no ponto: (8,8) o valor de:  29
+
+Estou colocando no ponto: (8,9) o valor de:  841
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  30
+
+Estou colocando no ponto: (8,8) o valor de:  30
+
+Estou colocando no ponto: (8,9) o valor de:  900
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  31
+
+Estou colocando no ponto: (8,8) o valor de:  31
+
+Estou colocando no ponto: (8,9) o valor de:  961
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  32
+
+Estou colocando no ponto: (8,8) o valor de:  32
+
+Estou colocando no ponto: (8,9) o valor de:  1024
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  33
+
+Estou colocando no ponto: (8,8) o valor de:  33
+
+Estou colocando no ponto: (8,9) o valor de:  1089
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  34
+
+Estou colocando no ponto: (8,8) o valor de:  34
+
+Estou colocando no ponto: (8,9) o valor de:  1156
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  35
+
+Estou colocando no ponto: (8,8) o valor de:  35
+
+Estou colocando no ponto: (8,9) o valor de:  1225
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  36
+
+Estou colocando no ponto: (8,8) o valor de:  36
+
+Estou colocando no ponto: (8,9) o valor de:  1296
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  37
+
+Estou colocando no ponto: (8,8) o valor de:  37
+
+Estou colocando no ponto: (8,9) o valor de:  1369
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  38
+
+Estou colocando no ponto: (8,8) o valor de:  38
+
+Estou colocando no ponto: (8,9) o valor de:  1444
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  39
+
+Estou colocando no ponto: (8,8) o valor de:  39
+
+Estou colocando no ponto: (8,9) o valor de:  1521
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  40
+
+Estou colocando no ponto: (8,8) o valor de:  40
+
+Estou colocando no ponto: (8,9) o valor de:  1600
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  41
+
+Estou colocando no ponto: (8,8) o valor de:  41
+
+Estou colocando no ponto: (8,9) o valor de:  1681
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  42
+
+Estou colocando no ponto: (8,8) o valor de:  42
+
+Estou colocando no ponto: (8,9) o valor de:  1764
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  43
+
+Estou colocando no ponto: (8,8) o valor de:  43
+
+Estou colocando no ponto: (8,9) o valor de:  1849
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  44
+
+Estou colocando no ponto: (8,8) o valor de:  44
+
+Estou colocando no ponto: (8,9) o valor de:  1936
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  45
+
+Estou colocando no ponto: (8,8) o valor de:  45
+
+Estou colocando no ponto: (8,9) o valor de:  2025
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  46
+
+Estou colocando no ponto: (8,8) o valor de:  46
+
+Estou colocando no ponto: (8,9) o valor de:  2116
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  47
+
+Estou colocando no ponto: (8,8) o valor de:  47
+
+Estou colocando no ponto: (8,9) o valor de:  2209
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  48
+
+Estou colocando no ponto: (8,8) o valor de:  48
+
+Estou colocando no ponto: (8,9) o valor de:  2304
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  49
+
+Estou colocando no ponto: (8,8) o valor de:  49
+
+Estou colocando no ponto: (8,9) o valor de:  2401
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  50
+
+Estou colocando no ponto: (8,8) o valor de:  50
+
+Estou colocando no ponto: (8,9) o valor de:  2500
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  51
+
+Estou colocando no ponto: (8,8) o valor de:  51
+
+Estou colocando no ponto: (8,9) o valor de:  2601
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (8,9) o valor de:  49
+
+Estou colocando no ponto: (8,9) o valor de:  64
+
+Estou colocando no ponto: (8,9) o valor de:  81
+
+Estou colocando no ponto: (8,9) o valor de:  100
+
+Estou colocando no ponto: (8,9) o valor de:  121
+
+Estou colocando no ponto: (8,9) o valor de:  144
+
+Estou colocando no ponto: (8,9) o valor de:  169
+
+Estou colocando no ponto: (8,9) o valor de:  196
+
+Estou colocando no ponto: (8,9) o valor de:  225
+
+Estou colocando no ponto: (8,9) o valor de:  256
+
+Estou colocando no ponto: (8,9) o valor de:  289
+
+Estou colocando no ponto: (8,9) o valor de:  324
+
+Estou colocando no ponto: (8,9) o valor de:  361
+
+Estou colocando no ponto: (8,9) o valor de:  400
+
+Estou colocando no ponto: (8,9) o valor de:  441
+
+Estou colocando no ponto: (8,9) o valor de:  484
+
+Estou colocando no ponto: (8,9) o valor de:  529
+
+Estou colocando no ponto: (8,9) o valor de:  576
+
+Estou colocando no ponto: (8,9) o valor de:  625
+
+Estou colocando no ponto: (8,9) o valor de:  676
+
+Estou colocando no ponto: (8,9) o valor de:  729
+
+Estou colocando no ponto: (8,9) o valor de:  784
+
+Estou colocando no ponto: (8,9) o valor de:  841
+
+Estou colocando no ponto: (8,9) o valor de:  900
+
+Estou colocando no ponto: (8,9) o valor de:  961
+
+Estou colocando no ponto: (8,9) o valor de:  1024
+
+Estou colocando no ponto: (8,9) o valor de:  1089
+
+Estou colocando no ponto: (8,9) o valor de:  1156
+
+Estou colocando no ponto: (8,9) o valor de:  1225
+
+Estou colocando no ponto: (8,9) o valor de:  1296
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  2
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  3
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  5
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  6
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (8,9) o valor de:  49
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  8
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (8,9) o valor de:  64
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  9
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (8,9) o valor de:  81
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  10
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (8,9) o valor de:  100
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  11
+
+Estou colocando no ponto: (8,8) o valor de:  11
+
+Estou colocando no ponto: (8,9) o valor de:  121
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  12
+
+Estou colocando no ponto: (8,8) o valor de:  12
+
+Estou colocando no ponto: (8,9) o valor de:  144
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  13
+
+Estou colocando no ponto: (8,8) o valor de:  13
+
+Estou colocando no ponto: (8,9) o valor de:  169
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  14
+
+Estou colocando no ponto: (8,8) o valor de:  14
+
+Estou colocando no ponto: (8,9) o valor de:  196
+
+Estou colocando no ponto: (5,7) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  14
+
+Estou colocando no ponto: (8,7) o valor de:  15
+
+Estou colocando no ponto: (8,8) o valor de:  15
+
+Estou colocando no ponto: (8,9) o valor de:  210
+
+Estou colocando no ponto: (5,4) o valor de:  1
+
+Estou colocando no ponto: (5,7) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  14
+
+Estou colocando no ponto: (8,4) o valor de:  16
+
+Estou colocando no ponto: (8,7) o valor de:  16
+
+Estou colocando no ponto: (8,8) o valor de:  16
+
+Estou colocando no ponto: (8,9) o valor de:  224
+
+Estou colocando no ponto: (5,3) o valor de:  1
+
+Estou colocando no ponto: (5,4) o valor de:  1
+
+Estou colocando no ponto: (5,7) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  14
+
+Estou colocando no ponto: (8,3) o valor de:  17
+
+Estou colocando no ponto: (8,4) o valor de:  17
+
+Estou colocando no ponto: (8,7) o valor de:  17
+
+Estou colocando no ponto: (8,8) o valor de:  17
+
+Estou colocando no ponto: (8,9) o valor de:  238
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,2) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (5,2) o valor de:  3
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  9
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (5,2) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  16
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (5,2) o valor de:  5
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  25
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (5,2) o valor de:  6
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  36
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (5,2) o valor de:  7
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  49
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (5,2) o valor de:  8
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  64
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (5,2) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  81
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (5,2) o valor de:  10
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  100
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (5,2) o valor de:  11
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  121
+
+Estou colocando no ponto: (8,8) o valor de:  11
+
+Estou colocando no ponto: (5,2) o valor de:  12
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  144
+
+Estou colocando no ponto: (8,8) o valor de:  12
+
+Estou colocando no ponto: (5,2) o valor de:  13
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  169
+
+Estou colocando no ponto: (8,8) o valor de:  13
+
+Estou colocando no ponto: (5,2) o valor de:  14
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  196
+
+Estou colocando no ponto: (8,8) o valor de:  14
+
+Estou colocando no ponto: (5,2) o valor de:  15
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  225
+
+Estou colocando no ponto: (8,8) o valor de:  15
+
+Estou colocando no ponto: (5,2) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  256
+
+Estou colocando no ponto: (8,8) o valor de:  16
+
+Estou colocando no ponto: (5,2) o valor de:  17
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  289
+
+Estou colocando no ponto: (8,8) o valor de:  17
+
+Estou colocando no ponto: (5,2) o valor de:  18
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  324
+
+Estou colocando no ponto: (8,8) o valor de:  18
+
+Estou colocando no ponto: (5,2) o valor de:  19
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  361
+
+Estou colocando no ponto: (8,8) o valor de:  19
+
+Estou colocando no ponto: (5,2) o valor de:  20
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  400
+
+Estou colocando no ponto: (8,8) o valor de:  20
+
+Estou colocando no ponto: (5,2) o valor de:  21
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  441
+
+Estou colocando no ponto: (8,8) o valor de:  21
+
+Estou colocando no ponto: (5,2) o valor de:  22
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  484
+
+Estou colocando no ponto: (8,8) o valor de:  22
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  529
+
+Estou colocando no ponto: (8,8) o valor de:  23
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  552
+
+Estou colocando no ponto: (8,5) o valor de:  24
+
+Estou colocando no ponto: (8,8) o valor de:  24
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  575
+
+Estou colocando no ponto: (8,5) o valor de:  25
+
+Estou colocando no ponto: (8,8) o valor de:  25
+
+Estou colocando no ponto: (8,10) o valor de:  25
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,12) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  598
+
+Estou colocando no ponto: (8,5) o valor de:  26
+
+Estou colocando no ponto: (8,8) o valor de:  26
+
+Estou colocando no ponto: (8,10) o valor de:  26
+
+Estou colocando no ponto: (8,12) o valor de:  26
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,12) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  621
+
+Estou colocando no ponto: (8,5) o valor de:  27
+
+Estou colocando no ponto: (8,8) o valor de:  27
+
+Estou colocando no ponto: (8,10) o valor de:  27
+
+Estou colocando no ponto: (8,12) o valor de:  27
+
+Estou colocando no ponto: (8,13) o valor de:  27
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,12) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  2
+
+Estou colocando no ponto: (8,2) o valor de:  644
+
+Estou colocando no ponto: (8,5) o valor de:  28
+
+Estou colocando no ponto: (8,8) o valor de:  28
+
+Estou colocando no ponto: (8,10) o valor de:  28
+
+Estou colocando no ponto: (8,12) o valor de:  28
+
+Estou colocando no ponto: (8,13) o valor de:  56
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,12) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  3
+
+Estou colocando no ponto: (8,2) o valor de:  667
+
+Estou colocando no ponto: (8,5) o valor de:  29
+
+Estou colocando no ponto: (8,8) o valor de:  29
+
+Estou colocando no ponto: (8,10) o valor de:  29
+
+Estou colocando no ponto: (8,12) o valor de:  29
+
+Estou colocando no ponto: (8,13) o valor de:  87
+
+Estou colocando no ponto: (5,2) o valor de:  23
+
+Estou colocando no ponto: (5,5) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,12) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  4
+
+Estou colocando no ponto: (8,2) o valor de:  690
+
+Estou colocando no ponto: (8,5) o valor de:  30
+
+Estou colocando no ponto: (8,8) o valor de:  30
+
+Estou colocando no ponto: (8,10) o valor de:  30
+
+Estou colocando no ponto: (8,12) o valor de:  30
+
+Estou colocando no ponto: (8,13) o valor de:  120
+
+Estou colocando no ponto: (8,13) o valor de:  1
+
+Estou colocando no ponto: (8,13) o valor de:  4
+
+Estou colocando no ponto: (8,13) o valor de:  9
+
+Estou colocando no ponto: (8,13) o valor de:  16
+
+Estou colocando no ponto: (8,13) o valor de:  25
+
+Estou colocando no ponto: (8,13) o valor de:  36
+
+Estou colocando no ponto: (8,13) o valor de:  49
+
+Estou colocando no ponto: (8,13) o valor de:  64
+
+Estou colocando no ponto: (8,13) o valor de:  81
+
+Estou colocando no ponto: (8,13) o valor de:  100
+
+Estou colocando no ponto: (8,13) o valor de:  121
+
+Estou colocando no ponto: (8,13) o valor de:  144
+
+Estou colocando no ponto: (8,13) o valor de:  169
+
+Estou colocando no ponto: (8,13) o valor de:  196
+
+Estou colocando no ponto: (8,13) o valor de:  225
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (8,13) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  2
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (8,13) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  3
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (8,13) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (8,13) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  5
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (8,13) o valor de:  25
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  6
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (8,13) o valor de:  36
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (8,13) o valor de:  49
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (8,11) o valor de:  8
+
+Estou colocando no ponto: (8,13) o valor de:  56
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (8,10) o valor de:  9
+
+Estou colocando no ponto: (8,11) o valor de:  9
+
+Estou colocando no ponto: (8,13) o valor de:  63
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  1
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (8,9) o valor de:  10
+
+Estou colocando no ponto: (8,10) o valor de:  10
+
+Estou colocando no ponto: (8,11) o valor de:  10
+
+Estou colocando no ponto: (8,13) o valor de:  70
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  2
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  11
+
+Estou colocando no ponto: (8,9) o valor de:  22
+
+Estou colocando no ponto: (8,10) o valor de:  11
+
+Estou colocando no ponto: (8,11) o valor de:  11
+
+Estou colocando no ponto: (8,13) o valor de:  77
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  3
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  12
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (8,10) o valor de:  12
+
+Estou colocando no ponto: (8,11) o valor de:  12
+
+Estou colocando no ponto: (8,13) o valor de:  84
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  4
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  13
+
+Estou colocando no ponto: (8,9) o valor de:  52
+
+Estou colocando no ponto: (8,10) o valor de:  13
+
+Estou colocando no ponto: (8,11) o valor de:  13
+
+Estou colocando no ponto: (8,13) o valor de:  91
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  5
+
+Estou colocando no ponto: (5,10) o valor de:  1
+
+Estou colocando no ponto: (5,11) o valor de:  1
+
+Estou colocando no ponto: (5,13) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  14
+
+Estou colocando no ponto: (8,9) o valor de:  70
+
+Estou colocando no ponto: (8,10) o valor de:  14
+
+Estou colocando no ponto: (8,11) o valor de:  14
+
+Estou colocando no ponto: (8,13) o valor de:  98
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  2
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  3
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  5
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  6
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,9) o valor de:  7
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (8,9) o valor de:  49
+
+Estou colocando no ponto: (8,9) o valor de:  1
+
+Estou colocando no ponto: (8,9) o valor de:  4
+
+Estou colocando no ponto: (8,9) o valor de:  9
+
+Estou colocando no ponto: (8,9) o valor de:  16
+
+Estou colocando no ponto: (8,9) o valor de:  25
+
+Estou colocando no ponto: (8,9) o valor de:  36
+
+Estou colocando no ponto: (8,9) o valor de:  49
+
+Estou colocando no ponto: (8,9) o valor de:  64
+
+Estou colocando no ponto: (8,9) o valor de:  81
+
+Estou colocando no ponto: (8,9) o valor de:  100
+
+Estou colocando no ponto: (8,9) o valor de:  121
+
+Estou colocando no ponto: (8,9) o valor de:  144
+
+Estou colocando no ponto: (8,9) o valor de:  169
+
+Estou colocando no ponto: (8,9) o valor de:  196
+
+Estou colocando no ponto: (8,9) o valor de:  225
+
+Estou colocando no ponto: (8,9) o valor de:  256
+
+Estou colocando no ponto: (8,9) o valor de:  289
+
+Estou colocando no ponto: (8,9) o valor de:  324
+
+Estou colocando no ponto: (8,9) o valor de:  361
+
+Estou colocando no ponto: (8,7) o valor de:  20
+
+Estou colocando no ponto: (8,9) o valor de:  380
+
+Estou colocando no ponto: (8,4) o valor de:  21
+
+Estou colocando no ponto: (8,7) o valor de:  21
+
+Estou colocando no ponto: (8,9) o valor de:  399
+
+Estou colocando no ponto: (8,3) o valor de:  22
+
+Estou colocando no ponto: (8,4) o valor de:  22
+
+Estou colocando no ponto: (8,7) o valor de:  22
+
+Estou colocando no ponto: (8,9) o valor de:  418
+
+Estou colocando no ponto: (8,3) o valor de:  46
+
+Estou colocando no ponto: (8,4) o valor de:  23
+
+Estou colocando no ponto: (8,7) o valor de:  23
+
+Estou colocando no ponto: (8,9) o valor de:  437
+
+Estou colocando no ponto: (8,3) o valor de:  72
+
+Estou colocando no ponto: (8,4) o valor de:  24
+
+Estou colocando no ponto: (8,7) o valor de:  24
+
+Estou colocando no ponto: (8,9) o valor de:  456
+
+Estou colocando no ponto: (8,3) o valor de:  100
+
+Estou colocando no ponto: (8,4) o valor de:  25
+
+Estou colocando no ponto: (8,7) o valor de:  25
+
+Estou colocando no ponto: (8,9) o valor de:  475
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,2) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  6
+
+Estou colocando no ponto: (8,3) o valor de:  3
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  2
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  8
+
+Estou colocando no ponto: (8,3) o valor de:  8
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  3
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  10
+
+Estou colocando no ponto: (8,3) o valor de:  15
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  12
+
+Estou colocando no ponto: (8,3) o valor de:  24
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  5
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  14
+
+Estou colocando no ponto: (8,3) o valor de:  35
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  6
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  16
+
+Estou colocando no ponto: (8,3) o valor de:  48
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  7
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  18
+
+Estou colocando no ponto: (8,3) o valor de:  63
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (5,2) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  8
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,2) o valor de:  20
+
+Estou colocando no ponto: (8,3) o valor de:  80
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (5,3) o valor de:  1
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  1
+
+Estou colocando no ponto: (8,8) o valor de:  1
+
+Estou colocando no ponto: (5,3) o valor de:  2
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  4
+
+Estou colocando no ponto: (8,8) o valor de:  2
+
+Estou colocando no ponto: (5,3) o valor de:  3
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  9
+
+Estou colocando no ponto: (8,8) o valor de:  3
+
+Estou colocando no ponto: (5,3) o valor de:  4
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  16
+
+Estou colocando no ponto: (8,8) o valor de:  4
+
+Estou colocando no ponto: (5,3) o valor de:  5
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  25
+
+Estou colocando no ponto: (8,8) o valor de:  5
+
+Estou colocando no ponto: (5,3) o valor de:  6
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  36
+
+Estou colocando no ponto: (8,8) o valor de:  6
+
+Estou colocando no ponto: (5,3) o valor de:  7
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  49
+
+Estou colocando no ponto: (8,8) o valor de:  7
+
+Estou colocando no ponto: (5,3) o valor de:  8
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  64
+
+Estou colocando no ponto: (8,8) o valor de:  8
+
+Estou colocando no ponto: (5,3) o valor de:  9
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  81
+
+Estou colocando no ponto: (8,8) o valor de:  9
+
+Estou colocando no ponto: (5,3) o valor de:  10
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  100
+
+Estou colocando no ponto: (8,8) o valor de:  10
+
+Estou colocando no ponto: (5,3) o valor de:  11
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  121
+
+Estou colocando no ponto: (8,8) o valor de:  11
+
+Estou colocando no ponto: (5,3) o valor de:  12
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  144
+
+Estou colocando no ponto: (8,8) o valor de:  12
+
+Estou colocando no ponto: (5,3) o valor de:  13
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  169
+
+Estou colocando no ponto: (8,8) o valor de:  13
+
+Estou colocando no ponto: (5,3) o valor de:  14
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  196
+
+Estou colocando no ponto: (8,8) o valor de:  14
+
+Estou colocando no ponto: (5,3) o valor de:  15
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  225
+
+Estou colocando no ponto: (8,8) o valor de:  15
+
+Estou colocando no ponto: (5,3) o valor de:  16
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  256
+
+Estou colocando no ponto: (8,8) o valor de:  16
+
+Estou colocando no ponto: (5,3) o valor de:  17
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  289
+
+Estou colocando no ponto: (8,8) o valor de:  17
+
+Estou colocando no ponto: (5,3) o valor de:  18
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  324
+
+Estou colocando no ponto: (8,8) o valor de:  18
+
+Estou colocando no ponto: (5,3) o valor de:  19
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  361
+
+Estou colocando no ponto: (8,8) o valor de:  19
+
+Estou colocando no ponto: (5,3) o valor de:  20
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  400
+
+Estou colocando no ponto: (8,8) o valor de:  20
+
+Estou colocando no ponto: (5,3) o valor de:  21
+
+Estou colocando no ponto: (5,8) o valor de:  1
+
+Estou colocando no ponto: (8,3) o valor de:  441
+
+Estou colocando no ponto: (8,8) o valor de:  21
